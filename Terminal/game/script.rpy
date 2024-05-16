@@ -1,4 +1,4 @@
-﻿image logo = ""
+﻿image logo = "terminal.png"
 
 
 define s = Character("Sylvie", color="#cc5674")
